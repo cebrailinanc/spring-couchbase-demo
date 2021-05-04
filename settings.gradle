@@ -1,0 +1,3 @@
+rootProject.name = 'spring-couchbase-demo'
+include 'domain', 'infra'
+
